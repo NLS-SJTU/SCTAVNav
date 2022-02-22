@@ -1,0 +1,7 @@
+zmq
+json
+matplotlib
+numpy
+PyKDL
+scipy 
+pymap3d
